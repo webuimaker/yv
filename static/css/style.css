@@ -1,0 +1,14 @@
+body{
+    margin: 8px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    line-height: 2rem;
+}
+footer{
+    border-top: 1px solid  ;
+    border-bottom: 1px solid  ;
+    padding-top: 10px;
+    font-size: 14px;
+}

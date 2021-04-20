@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "The Yiddish Voice"
+
+[params]
+[params.footer]
+url = "http://www.yiddishvoice.com/"
+urlText = "The Yiddish Voice"
+mail = "radio@yv.org"
+info = "Weds, 7:30 p.m., WUNR 1600 AM/Brookline <br>The Yiddish Voice c/o WUNR, 160 N. Washington St., Boston, MA 02114"
+copyright = "Copyright (c) 1995-2019 The Yiddish Voice <radio@yv.org>. All Rights Reserved."
